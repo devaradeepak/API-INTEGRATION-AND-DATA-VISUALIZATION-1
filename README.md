@@ -54,3 +54,5 @@ Conclusion: This project showcases the power of combining API integration and da
 By following these steps, you can replicate and expand this project to suit your specific needs, whether you are looking to monitor weather conditions, integrate weather data into your business models, or enhance learning experiences with practical examples of API integration and data visualization. The flexibility and power of the tools used make this project a versatile addition to your data analysis toolkit. Whether you are a beginner or an experienced developer, this project provides a solid foundation for working with APIs and visualizing data in Python.
 
 OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/aa4b97e3-8c66-42fc-81c4-9e59f914a459)
